@@ -17,3 +17,28 @@ En plus, vous avez été informés que les communes suivantes ont fusionnées, e
 * la commune française de Saint-Gingolph a fusionné avec la commune valaisanne de Saint-Gingolph, dans une nouvelle commune de nom *«New Saint-Gingolph»*. Faites attention qu'il n'y a pas de «trou» à l'intérieur de la commune.
 
 Si vous voulez une correction de l'exercice, veuillez rendre par mail une archive ZIP contenant l'ensemble des couches.
+
+
+
+
+## Tutoriels
+
+* Tutoriels déjà vu au cours de Cartographie:
+	* [QGIS Tutorial #1: Installation sur Windows](https://www.youtube.com/watch?v=-7tnnMc9UXU&index=1&list=PLbjixabFMUzPgm8VFyBUP7fs9DRBNEbsw)
+	* [QGIS Tutorial #2: Installation sous Mac OS X](https://www.youtube.com/watch?v=5In21hlXo8k&index=2&list=PLbjixabFMUzPgm8VFyBUP7fs9DRBNEbsw)
+	* [QGIS Tutorial #3: l'interface](https://www.youtube.com/watch?v=GGh63wACrTw&list=PLbjixabFMUzPgm8VFyBUP7fs9DRBNEbsw&index=3)
+	* [QGIS Tutorial #4: Couches vectorielles](https://www.youtube.com/watch?v=kdaqJUGqJy0&index=4&list=PLbjixabFMUzPgm8VFyBUP7fs9DRBNEbsw)
+	* [QGIS Tutorial #5: Couches raster](https://www.youtube.com/watch?v=E1X_cQQ22Vw&list=PLbjixabFMUzPgm8VFyBUP7fs9DRBNEbsw&index=5)
+	* [QGIS Tutorial #6: Projections](https://www.youtube.com/watch?v=IcLHgdCyeSg&index=6&list=PLbjixabFMUzPgm8VFyBUP7fs9DRBNEbsw)
+
+* Tutoriels par rapport à cet exercice:
+	* [QGIS Tutorial #8: Projections 2](https://www.youtube.com/watch?v=ACfCxfA92kY&index=8&list=PLbjixabFMUzPgm8VFyBUP7fs9DRBNEbsw)
+	* [QGIS Tutorial #9: Exporter une partie d'une couche vectorielle](https://www.youtube.com/watch?v=D5p_sZtLLuA&index=9&list=PLbjixabFMUzPgm8VFyBUP7fs9DRBNEbsw)
+	* [QGIS Tutorial #10: Opération géométrique dissolve](https://www.youtube.com/watch?v=s1JtQ4aZJOk&index=10&list=PLbjixabFMUzPgm8VFyBUP7fs9DRBNEbsw)
+	* [QGIS Tutorial #11: Fusionner deux couches vectorielles](https://www.youtube.com/watch?v=VOJs_XJ5ocI&index=11&list=PLbjixabFMUzPgm8VFyBUP7fs9DRBNEbsw)
+	* [QGIS Tutorial #12: Copier-coller des géométries d'une couche à l'autre](https://www.youtube.com/watch?v=UqvXahonVSE&index=12&list=PLbjixabFMUzPgm8VFyBUP7fs9DRBNEbsw)
+	* [QGIS Tutorial #13: Fusionner des polygones en mode édition](https://www.youtube.com/watch?v=HS7yE20IPAU&index=13&list=PLbjixabFMUzPgm8VFyBUP7fs9DRBNEbsw)
+	* [QGIS Tutorial #14: Editer des polygones complexes](https://www.youtube.com/watch?v=5eo5ZFy5Jek&index=14&list=PLbjixabFMUzPgm8VFyBUP7fs9DRBNEbsw)
+
+* [Ensemble des tutoriels QGIS](https://www.youtube.com/playlist?list=PLbjixabFMUzPgm8VFyBUP7fs9DRBNEbsw)
+
