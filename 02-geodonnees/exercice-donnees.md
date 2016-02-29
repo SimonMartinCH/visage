@@ -14,7 +14,7 @@ Par ailleurs, vous avez été informés que plusieurs communes ont fusionné, ce
 
 * les communes vaudoises de Blonay et Saint-Légier-La-Chiésaz ont fusionné dans une nouvelle commune de nom *«Ognonnaz»*, du nom de la rivière qui les séparait.
 
-* la commune genevoise d'Hermance a choisi de quitter la Confédération helvétique et s'intégrer au territoire de la commune française de Douvaine, les deux formant ainsi une nouvelle commune nommée *«Nouvelle Riviera»*. Faites attention qu'il n'y ait aucun «trou» à l'intérieur du territoire de la commune.
+* la commune française de Saint-Gingolf a fusionné avec la commune suisse de Saint-Gingolf pour créer une nouvelle commune nommée *«Nouvelle Saint-Gingolf»*. Faites attention qu'il n'y ait aucun «trou» à l'intérieur du territoire de la commune.
 
 Les étapes nécessaires pour réaliser cet exercice sont détaillées dans les vidéos ci-dessous. L'ensemble du processus est effectué avec Quantum GIS. A vous de trouver les géodonnées de base!
 
