@@ -10,7 +10,7 @@ L'exercice consiste en la préparation d'un fond de carte des régions riveraine
 
 A ce stade, il ne faut pas faire attention aux attributs des couches. Il y aura aussi beaucoup d'imprécisions le long de la frontière entre la France et la Suisse; pas besoin de régler ce problème pour l'instant.
 
-Enfin, vous avez été informés que plusieurs communes ont fusionné, ce qui arrive régulièrement. Il faut tenir compte ici des fusions (imaginaires) suivantes:
+Par ailluers, vous avez été informés que plusieurs communes ont fusionné, ce qui arrive régulièrement. Il faut tenir compte ici des fusions (imaginaires) suivantes:
 
 * les communes vaudoises de Blonay et Saint-Légier-La-Chiésaz ont fusionné dans une nouvelle commune de nom *«Ognonnaz»*, du nom de la rivière qui les séparait.
 
