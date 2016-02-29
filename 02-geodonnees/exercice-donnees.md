@@ -6,7 +6,7 @@ L'exercice consiste en la préparation d'un fond de carte des régions riveraine
 
 * Une deuxième couche qui contient les limites des cantons resp. du département. Cette couche doit être générée à partir de la couche des communes.
 
-* Une troisième couche séparée doit contient le Léman, ainsi que d'éventuels autres lacs. Les deux premières couches ne doivent pas contenir de lac.
+* Une troisième couche séparée doit contenir le Léman, ainsi que d'éventuels autres lacs. Les deux premières couches ne doivent pas contenir de lac.
 
 A ce stade, il ne faut pas faire attention aux attributs des couches. Il y aura aussi beaucoup d'imprécisions le long de la frontière entre la France et la Suisse; pas besoin de régler ce problème pour l'instant.
 
