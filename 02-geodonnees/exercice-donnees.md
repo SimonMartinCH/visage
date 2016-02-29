@@ -2,7 +2,7 @@
 
 L'exercice consiste en la préparation d'un fond de carte des régions riveraines du Léman. Le maillage spatial choisi est celui des communes, avec une couche supplémentaire contenant les limites des régions (cantons, département). Concrètement, il s'agit de  produire 3 couches vectorielles, sous forme de fichiers Shape:
 
-* Une couche (une seule couche!) des communes des cantons du Valais, Vaud et Genève, ainsi que du Département de la Haute-Savoie en France. La couche doit avoir comme système de référence spatial les coordonnées suisses CH1903 (EPSG:21781).
+* Une couche (une seule couche!) des communes des cantons du Valais, Vaud et Genève (données OFT, Vecteur 200), ainsi que du Département de la Haute-Savoie en France. La couche doit avoir comme système de référence spatial les coordonnées suisses CH1903 (EPSG:21781).
 
 * Une deuxième couche qui contient les limites des cantons resp. du département. Cette couche doit être générée à partir de la couche des communes.
 
@@ -14,7 +14,7 @@ Par ailleurs, vous avez été informés que plusieurs communes ont fusionné, ce
 
 * les communes vaudoises de Blonay et Saint-Légier-La-Chiésaz ont fusionné dans une nouvelle commune de nom *«Ognonnaz»*, du nom de la rivière qui les séparait.
 
-* la commune française de Saint-Gingolph a fusionné avec la commune valaisanne de Saint-Gingolph, dans une nouvelle commune de nom *«New Saint-Gingolph»*. Faites attention qu'il n'y ait aucun «trou» à l'intérieur de la commune.
+* la commune française de Saint-Gingolf a fusionné avec la commune suisse de Saint-Gingolf pour créer une nouvelle commune nommée *«Nouvelle Saint-Gingolf»*. Faites attention qu'il n'y ait aucun «trou» à l'intérieur du territoire de la commune.
 
 Les étapes nécessaires pour réaliser cet exercice sont détaillées dans les vidéos ci-dessous. L'ensemble du processus est effectué avec Quantum GIS. A vous de trouver les géodonnées de base!
 
