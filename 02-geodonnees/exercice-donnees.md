@@ -2,7 +2,7 @@
 
 L'exercice consiste en la préparation d'un fond de carte des régions riveraines du Léman. Le maillage spatial choisi est celui des communes, avec une couche supplémentaire contenant les limites des régions (cantons, département). Concrètement, il s'agit de  produire 3 couches vectorielles, sous forme de fichiers Shape:
 
-* Une couche (une seule couche!) des communes des cantons du Valais, Vaud et Genève, ainsi que du Département de la Haute-Savoie en France. La couche doit avoir comme système de référence spatial les coordonnées suisses CH1903 (EPSG:21781).
+* Une couche (une seule couche!) des communes des cantons du Valais, Vaud et Genève (données OFT, Vecteur 200), ainsi que du Département de la Haute-Savoie en France ([couche des communes](https://www.grosfichiers.com/fr/3F6z8nT1BXL6n). La couche doit avoir comme système de référence spatial les coordonnées suisses CH1903 (EPSG:21781).
 
 * Une deuxième couche qui contient les limites des cantons resp. du département. Cette couche doit être générée à partir de la couche des communes.
 
