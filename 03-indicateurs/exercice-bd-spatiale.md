@@ -10,16 +10,16 @@
 ---
 
 
-Préparez un fond de carte complet avec plusieurs attributs pour la liste des communes vaudoises se trouvant dans le fichier `communes_vd.csv` (tuto #15). L'état des communes est celui de 2012. Comme fond de carte, utilisez la couche simplifiée du K4 de l'Office fédéral de la statistique (section ThemaKart).
+Préparez un fond de carte complet avec plusieurs attributs pour la liste des communes vaudoises se trouvant dans le fichier `liste_communes.csv` (tuto #15). L'état des communes est celui de 2014. Comme fond de carte, utilisez la couche simplifiée du K4 de l'Office fédéral de la statistique (section ThemaKart).
 
 Vous devez y joindre les attributs suivants (tuto #16 et 17) que vous trouverez par exemple sur [l'atlas statistique du canton de Vaud](http://www.cartostat.vd.ch/index.php?gc_user=1):
 * Géocode de l'OFS et nom de la commune
-* Population résidante permanente des années 2000, 2005, 2010, 2012 (noms des attributs: *pop2000, pop2005, pop2010, pop2012*)
-* Nombre de personnes de nationalité française, en 2012 (nom de l'attribut: *fr2012*)
-* Pourcentage de personnes de nationalité française, en 2012 (nom de l'attribut: *pfr2012*)
+* Population résidante permanente des années 2000, 2005, 2010, 2014 (noms des attributs: *pop2000, pop2005, pop2010, pop2014*)
+* Nombre de personnes de nationalité française, en 2014 (nom de l'attribut: *fr2014*)
+* Pourcentage de personnes de nationalité française, en 2014 (nom de l'attribut: *pfr2014*)
 * Pourcentage de familles monoparentales, en 1970 et 2000 (noms des attributs: *famo1970, famo2000*)
 * Evolution de 1970 à 2000 du pourcentage de familles monoparentales (nom de l'attribut: *famo7000*)
-* Nombre de logements vacants, en 2000, 2005, 2010, 2012 (noms des attributs: *lovac00, lovac05, lovac10, lovac12*)
+* Nombre de logements vacants, en 2000, 2005, 2010, 2015 (noms des attributs: *lovac00, lovac05, lovac10, lovac15*)
 * Total des déchets collectés en 2010, en tonnes (nom de l'attribut: *dechet10*)
 
 Ensuite téléchargez la liste des appartements dans le fichier `appartements.csv` (tuto #18). Les coordonnées sont en latitude/longitude (WGS84, EPSG:4326). Importez ce fichier dans QGIS et convertissez-le en fichier Shape (attention à la projection! tuto #8) Comptez ensuite le nombre d'appartements dans chaque commune se trouvant dans la liste (tuto #19). Ajoutez un attribut *napparts* dans votre fichier Shape des communes vaudoises contenant ce nombre.
