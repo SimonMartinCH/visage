@@ -36,7 +36,7 @@ Pour avoir une correction de votre exercice, vous devez rendre la couche Shape d
 
 * [Ensemble des tutoriels QGIS](https://www.youtube.com/playlist?list=PLbjixabFMUzPgm8VFyBUP7fs9DRBNEbsw)
 * Si vous exportez des données OFS via STAT-TAB, l'attribut géocode est mélangé avec le nom de la commune (de style "......5401 Aigle") ce qui empêche de faire directement le lien avec un shapefile. Marche à suivre pour remplacer ce champ "commune" par le géocode seul dans LibreOffice Calc: 
-	* ouvrir "Rechercher & remplacer";
+	* Ouvrir "Rechercher & remplacer";
 	* Rechercher ...... et Remplacer par [rien];
 	* Cocher "Expressions régulières" dans "Autres Options";
 	* Rechercher ([:digit:]{4}).+$ et Remplacer par $1;
