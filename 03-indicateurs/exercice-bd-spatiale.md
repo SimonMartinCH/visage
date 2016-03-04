@@ -12,7 +12,7 @@
 
 Préparez un fond de carte complet avec plusieurs attributs pour la liste des communes vaudoises se trouvant dans le fichier `communes_vd.csv` (tuto #15). L'état des communes est celui de 2012. Comme fond de carte, utilisez la couche simplifiée du K4 de l'Office fédéral de la statistique (section ThemaKart).
 
-Vous devez y joindre les attributs suivants (tuto #16 et 17):
+Vous devez y joindre les attributs suivants (tuto #16 et 17) que vous trouverez par exemple sur [l'atlas statistique du canton de Vaud](http://www.cartostat.vd.ch/index.php?gc_user=1):
 * Géocode de l'OFS et nom de la commune
 * Population résidante permanente des années 2000, 2005, 2010, 2012 (noms des attributs: *pop2000, pop2005, pop2010, pop2012*)
 * Nombre de personnes de nationalité française, en 2012 (nom de l'attribut: *fr2012*)
