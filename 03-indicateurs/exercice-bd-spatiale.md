@@ -27,6 +27,7 @@ Ensuite téléchargez la liste des appartements dans le fichier `appartements.cs
 Pour avoir une correction de votre exercice, vous devez rendre la couche Shape des communes vaudoises sélectionnées, c'est-à-dire tous les fichiers appartenant au format Shape y compris le fichier .prj (donc au minimum .shp, .shx, .dbf et .prj) et contenant les attributs mentionnés ci-dessus (vérifier que les noms des attributs ainsi que leur type soient correctes). Rendez une archive ZIP contenant l'ensemble des fichiers.
 
 * Tutoriels par rapport à cet exercice:
+* Pour remplacer la colonne "Communes" de STAT-TAB par le seul géocode avec LibreOffice Calc: ouvrir "Rechercher & remplacer"; Rechercher ...... et Remplacer par [rien]; cocher "Expressions régulières" dans "Autres Options"; Rechercher ([:digit:]{4}).+$ et Remplacer par $1. Fini!
 	* [QGIS Tutorial #8: Projections](https://www.youtube.com/watch?v=ACfCxfA92kY&index=8&list=PLbjixabFMUzPgm8VFyBUP7fs9DRBNEbsw)
 	* [QGIS Tutorial #15: Sélectionner des entités avec une liste de valeurs ](https://youtu.be/W51UaWcTExw?list=PLbjixabFMUzPgm8VFyBUP7fs9DRBNEbsw)
 	* [QGIS Tutorial #16: Joindre des attributs sur la base d'un champ commun ](https://youtu.be/EhliMhtdxUI?list=PLbjixabFMUzPgm8VFyBUP7fs9DRBNEbsw)
