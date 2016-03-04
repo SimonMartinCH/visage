@@ -35,4 +35,9 @@ Pour avoir une correction de votre exercice, vous devez rendre la couche Shape d
 	* [QGIS Tutorial #19: Jointure spatiale](https://www.youtube.com/watch?v=HS7yE20IPAU&index=13&list=PLbjixabFMUzPgm8VFyBUP7fs9DRBNEbsw)
 
 * [Ensemble des tutoriels QGIS](https://www.youtube.com/playlist?list=PLbjixabFMUzPgm8VFyBUP7fs9DRBNEbsw)
-* Si vous exportez des données OFS via STAT-TAB, l'attribut géocode est mélangé avec le nom de la commune (de style "......5401 Aigle") ce qui empêche de faire directement le lien avec un shapefile. Pour remplacer ce champ "commune" par le géocode seul dans LibreOffice Calc: ouvrir "Rechercher & remplacer"; Rechercher ...... et Remplacer par [rien]; cocher "Expressions régulières" dans "Autres Options"; Rechercher ([:digit:]{4}).+$ et Remplacer par $1. Fini!
+* Si vous exportez des données OFS via STAT-TAB, l'attribut géocode est mélangé avec le nom de la commune (de style "......5401 Aigle") ce qui empêche de faire directement le lien avec un shapefile. Marche à suivre pour remplacer ce champ "commune" par le géocode seul dans LibreOffice Calc: 
+	* ouvrir "Rechercher & remplacer";
+	* Rechercher ...... et Remplacer par [rien];
+	* Cocher "Expressions régulières" dans "Autres Options";
+	* Rechercher ([:digit:]{4}).+$ et Remplacer par $1;
+	* C'est terminé: enregistrer le fichier puis passer sur QGIS pour joindre les attributs.
