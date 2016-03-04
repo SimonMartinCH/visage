@@ -25,3 +25,13 @@ Vous devez y joindre les attributs suivants:
 Ensuite téléchargez la liste des appartements dans le fichier `appartements.csv`. Les coordonnées sont en latitude/longitude (WGS84, EPSG:4326). Importez ce fichier dans QGIS et convertissez-le en fichier Shape (attention à la projection!). Comptez ensuite le nombre d'appartements dans chaque commune se trouvant dans la liste. Ajoutez un attribut *napparts* dans votre fichier Shape des communes vaudoises contenant ce nombre.
 
 Pour avoir une correction de votre exercice, vous devez rendre la couche Shape des communes vaudoises sélectionnées, c'est-à-dire tous les fichiers appartenant au format Shape y compris le fichier .prj (donc au minimum .shp, .shx, .dbf et .prj) et contenant les attributs mentionnés ci-dessus (vérifier que les noms des attributs ainsi que leur type soient correctes). Rendez une archive ZIP contenant l'ensemble des fichiers.
+
+* Tutoriels par rapport à cet exercice:
+	* [QGIS Tutorial #8: Projections](https://www.youtube.com/watch?v=ACfCxfA92kY&index=8&list=PLbjixabFMUzPgm8VFyBUP7fs9DRBNEbsw)
+	* [QGIS Tutorial #15: Sélectionner des entités avec une liste de valeurs ](https://youtu.be/W51UaWcTExw?list=PLbjixabFMUzPgm8VFyBUP7fs9DRBNEbsw)
+	* [QGIS Tutorial #16: Joindre des attributs sur la base d'un champ commun ](https://youtu.be/EhliMhtdxUI?list=PLbjixabFMUzPgm8VFyBUP7fs9DRBNEbsw)
+	* [QGIS Tutorial #17: Conversion du type d'attribut avec la calculatrice d'attributs ](https://youtu.be/iiMUN6hYhbc?list=PLbjixabFMUzPgm8VFyBUP7fs9DRBNEbsw)
+	* [QGIS Tutorial #18: Convertir un fichier CSV en Shape à l'aide de colonnes lat/long ](https://youtu.be/8JO7rZRWj9o?list=PLbjixabFMUzPgm8VFyBUP7fs9DRBNEbsw)
+	* [QGIS Tutorial #19: Jointure spatiale](https://www.youtube.com/watch?v=HS7yE20IPAU&index=13&list=PLbjixabFMUzPgm8VFyBUP7fs9DRBNEbsw)
+
+* [Ensemble des tutoriels QGIS](https://www.youtube.com/playlist?list=PLbjixabFMUzPgm8VFyBUP7fs9DRBNEbsw)
