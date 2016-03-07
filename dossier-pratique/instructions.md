@@ -51,7 +51,7 @@ Au niveau technique, vous allez utiliser **Adobe Illustrator** pour l'ensemble d
 
 Graphiquement, la structure de votre dossier se présente comme suit:
 
-![Figure 1: Structure du dossier](figures/structure-dossier.png)
+![Figure 1: Structure du dossier](structure-dossier.png)
 
 Bien évidemment, certaines descriptions ne prendront pas l'ensemble de la page A4. Dans ce cas, le but n'est pas de remplir la page, mais de mettre en page le contenu disponible d'une manière logique favorisant la communication et l'esthétique du document.
 
