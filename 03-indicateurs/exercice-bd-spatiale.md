@@ -22,9 +22,9 @@ Vous devez y joindre les attributs suivants (tuto #16 et 17) que vous trouverez 
 * Total des déchets collectés en 2010, en tonnes (nom de l'attribut: *dechet10*)
 
 Marche à suivre "facile" pour la jointure:
-1. Préparer le tableau de données sur **LibreOffice Calc** (attention aux intitulés!)
-2. Exporter le fichier en format **.DBF**
-3. Importer le fichier dans QGIS (glisser-déposer) puis faire la jointure.
+1. Préparer le tableau de données sur **LibreOffice Calc** (attention aux intitulés!).
+2. 2. Exporter le fichier en format **.DBF**.
+3. 3. Importer le fichier dans QGIS (glisser-déposer) puis faire la jointure.
 
 Ensuite téléchargez la liste des appartements dans le fichier `appartements.csv` (tuto #18). Les coordonnées sont en latitude/longitude (WGS84, EPSG:4326). Importez ce fichier dans QGIS et convertissez-le en fichier Shape (attention à la projection! tuto #8) Comptez ensuite le nombre d'appartements dans chaque commune se trouvant dans la liste (tuto #19). Ajoutez un attribut *napparts* dans votre fichier Shape des communes vaudoises contenant ce nombre.
 
