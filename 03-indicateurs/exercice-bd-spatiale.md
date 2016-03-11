@@ -9,12 +9,7 @@
 
 ---
 
-
-<<<<<<< HEAD
-Préparez un fond de carte complet avec plusieurs attributs pour la liste des communes vaudoises se trouvant dans le fichier `communes_vd.csv`. L'état des communes est celui de 2012. Comme fond de carte, utilisez la couche simplifiée du K4 de l'Office fédéral de la statistique (section ThemaKart) disponible sur le serveur UnilGIS.
-=======
 Préparez un fond de carte complet avec plusieurs attributs pour la liste des communes vaudoises se trouvant dans le fichier `liste_communes.csv` (tuto #15). L'état des communes est celui de 2014. Comme fond de carte, utilisez la couche simplifiée du K4 de l'Office fédéral de la statistique (section ThemaKart).
->>>>>>> 9ebe5e7f732dcfb7964e3abbe32a6dea2a4d87cb
 
 Vous devez y joindre les attributs suivants (tuto #16 et 17) que vous trouverez par exemple sur [l'atlas statistique du canton de Vaud](http://www.cartostat.vd.ch/index.php?gc_user=1):
 * Géocode de l'OFS et nom de la commune
@@ -25,6 +20,14 @@ Vous devez y joindre les attributs suivants (tuto #16 et 17) que vous trouverez 
 * Evolution de 1970 à 2000 du pourcentage de familles monoparentales (nom de l'attribut: *famo7000*)
 * Nombre de logements vacants, en 2000, 2005, 2010, 2015 (noms des attributs: *lovac00, lovac05, lovac10, lovac15*)
 * Total des déchets collectés en 2010, en tonnes (nom de l'attribut: *dechet10*)
+
+Marche à suivre "facile" pour la jointure:
+
+1. Préparer le tableau de données sur **LibreOffice Calc** (attention aux intitulés!).
+
+2. Exporter le fichier en format **.DBF**.
+
+3. Importer le fichier dans QGIS (glisser-déposer) puis faire la jointure.
 
 Ensuite téléchargez la liste des appartements dans le fichier `appartements.csv` (tuto #18). Les coordonnées sont en latitude/longitude (WGS84, EPSG:4326). Importez ce fichier dans QGIS et convertissez-le en fichier Shape (attention à la projection! tuto #8) Comptez ensuite le nombre d'appartements dans chaque commune se trouvant dans la liste (tuto #19). Ajoutez un attribut *napparts* dans votre fichier Shape des communes vaudoises contenant ce nombre.
 
