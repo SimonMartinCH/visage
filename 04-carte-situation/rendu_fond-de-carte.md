@@ -20,6 +20,6 @@ Le but est de rassembler et de mettre en forme (à priori sur QGIS) les données
 * une version "léchée", voire parfaite (!) du fond de carte sur Illustrator.
 
 ##Forme du rendu
-Une simple image suffit comme rendu. A choix, en fonction de votre avancement, vous pouvez enregistrer une image depuis le composeur d'impression de QGIS (meilleure solution si vous pensez encore changer des éléments du fond de carte) ou directement depuis Illustrator si vous avez déjà collecté toutes les couches et fixé définitivement l'emprise spatiale de votre carte.
+Une simple image suffit comme rendu. A choix, en fonction de votre avancement, vous pouvez enregistrer une image depuis le composeur d'impression de QGIS, meilleure solution si vous pensez encore changer des éléments du fond de carte ((tutoriel)[https://youtu.be/YsULlnNDufA]) ou directement depuis Illustrator si vous avez déjà collecté toutes les couches et fixé définitivement l'emprise spatiale de votre carte.
 
 
