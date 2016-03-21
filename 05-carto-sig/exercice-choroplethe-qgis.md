@@ -29,7 +29,7 @@ Les [tutoriels vidéo de création de cartes choroplèthes avec QGIS](https://ww
 
 ## Données
 
-Pour ceux qui veulent faire l'exercice avec l'évolution des familles monoparentales entre 1970 et 2000 autour de Lausanne, le fichier contenant les données est fourni (`exercice-choroplethe-qgis-data-famo.txt`). Les données peuvent facilement être téléchargées directement depuis [l'atlas statistique du canton de Vaud](http://www.scris.vd.ch/Default.aspx?DomId=2091), établi par Statistique Vaud. La source des données est le Recensement fédéral de la population de 1970 et 2000, de [l'Office fédéral de la statistique (OFS)](http://www.bfs.admin.ch/bfs/portal/fr/index.html/).
+Pour ceux qui veulent faire l'exercice avec l'évolution des familles monoparentales entre 1970 et 2000 autour de Lausanne, le fichier contenant les données est fourni (`exercice-choroplethe-qgis-data-famo.csv`). Les données peuvent facilement être téléchargées directement depuis [l'atlas statistique du canton de Vaud](http://www.scris.vd.ch/Default.aspx?DomId=2091), établi par Statistique Vaud. La source des données est le Recensement fédéral de la population de 1970 et 2000, de [l'Office fédéral de la statistique (OFS)](http://www.bfs.admin.ch/bfs/portal/fr/index.html/).
 
 Les limites des communes peuvent être obtenues à différents endroits:
 
