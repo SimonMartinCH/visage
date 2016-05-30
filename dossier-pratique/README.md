@@ -42,7 +42,7 @@ Au niveau technique, vous allez utiliser **Adobe Illustrator** pour l'ensemble d
 * Page 3: introduction à votre thématique, présentation de la problématique etc.
 * Page 4: Présentation textuelle de votre région, en faisant référence à la carte de la page 5.
 * Page 5: Carte de localisation de votre région
-* Pages 6-13: Cartes des indicateurs (à droite, pages impaires) avec description de l'indicateur, de la structure spatiale et des implications par rapport à votre thématique choisie (à gauche, pages paires). Des graphiques peuvent également y être insérés.
+* Pages 6-13: Cartes des indicateurs (à droite, pages impaires) avec description de l'indicateur, de la structure spatiale et des implications par rapport à votre thématique choisie (à gauche, pages paires). Des graphiques peuvent également être insérés dans le texte. La page de droite peut contenir plus d'une carte!
 * Page 14: en principe vide
 * Page 15: Discussion et conclusions par rapport à votre analyse et votre thématique.
 * Page 16: Couverture arrière de votre dossier avec un bref résumé du contenu de votre dossier
