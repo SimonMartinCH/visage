@@ -16,8 +16,6 @@ Le plus important lors du choix de la thématique, et de son analyse, est de **s
 
 Au niveau de la **région**, vous êtes très libres. Vous pouvez choisir n'importe quelle région dans le monde, à condition d'avoir au minimum plusieurs dizaines d'unités spatiales et d'être en mesure de trouver des données pertinentes par vous-mêmes.
 
-
-
 ## Structure du dossier
 
 Le dossier doit avoir la structure suivante:
@@ -62,3 +60,9 @@ Afin de faciliter le début du dossier, un fichier Illustrator préparé avec le
 * Une fois que le contenu est prêt, insérez le tout dans le *«document maître»* contenant l'ensemble des pages de votre dossier.
 
 Veillez à une cohérence globale de votre graphique au niveau du contenu, de la communication et du graphisme. Il est conseillé de travailler avec des lignes auxiliaires p.ex. pour définir 7 «colonnes virtuelles» qui peuvent être utilisées de manière flexible pour disposer les éléments sur la page.
+
+## Rendu du dossier
+
+Le dossier se fait seul ou en groupes de 2 personnes. Le délai de rendu est fixé au 20 juin 2016 à 17h00. Tout retard sera pénalisé de 0.5 point par jour de retard. Le maximum de points pour tout le dossier est 6.
+
+Le rendu doit se faire à la fois (1) en format PDF envoyé par mail à simon.martin[at]unil.ch et (2) sous forme de dossier imprimé et déposé dans la boîte à lettre de Christian Kaiser, située à Géopolis, au 3e étage à côté des ascenceurs.
