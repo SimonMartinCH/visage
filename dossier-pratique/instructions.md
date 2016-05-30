@@ -55,7 +55,7 @@ Graphiquement, la structure de votre dossier se présente comme suit:
 
 Bien évidemment, certaines descriptions ne prendront pas l'ensemble de la page A4. Dans ce cas, le but n'est pas de remplir la page, mais de mettre en page le contenu disponible d'une manière logique favorisant la communication et l'esthétique du document.
 
-Afin de faciliter le début du dossier, un fichier Illustrator préparé avec les différentes pages vous est fourni ([Modèle paysage](https://github.com/SimonMartinCH/visage/blob/master/dossier-pratique/structure/template-a4paysage.ai),[Modèle portrait](https://github.com/SimonMartinCH/visage/blob/master/dossier-pratique/structure/template-a4portrait.ai)). Dans le travail concret, favorisez le processus suivant:
+Afin de faciliter le début du dossier, un fichier Illustrator préparé avec les différentes pages vous est fourni ([Modèle paysage](https://github.com/SimonMartinCH/visage/blob/master/dossier-pratique/structure/template-a4paysage.ai), [Modèle portrait](https://github.com/SimonMartinCH/visage/blob/master/dossier-pratique/structure/template-a4portrait.ai)). Dans le travail concret, favorisez le processus suivant:
 
 * Écrivez vos textes avec un traitement de texte comme p.ex. Word, avec un correcteur d'orthographe et de grammaire moderne
 * Faites vos cartes dans un document Illustrator à part
